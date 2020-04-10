@@ -4,15 +4,10 @@
       path: /programs.html
     - title: Edit the Doc Site
       path: /programs/edit-the-doc-site.html
-    - title: Overview
-      path: /programs/overview.html
-    - title: Program Start-Up Guide
-      path: /programs/program-start-up-guide.html
-      items:
-        - title: Start HackerOne Response
-          path: /programs/start-h1-response.html
-        - title: Start HackerOne Bounty
-          path: /programs/start-h1-bounty.html
+    - title: Product Offerings
+      path: /programs/product-offerings.html
+    - title: Program Starting Point
+      path: /programs/program-starting-point.html
     - title: Private vs Public Programs
       path: /programs/private-vs-public-programs.html
     - title: Parent/Child Programs
@@ -23,6 +18,8 @@
       path: /programs/using-markdown.html
 - title: Your Program
   items:
+    - title: General Settings
+      path: /programs/general-settings.html
     - title: Security Page
       path: /programs/security-page.html
       items:
@@ -101,6 +98,8 @@
       path: /programs/credential-management.html
     - title: Notifications
       path: /programs/notifications.html
+    - title: Response Programs
+      path: /programs/start-h1-response.html
 - title: Reports
   items:
     - title: Inbox
@@ -143,8 +142,6 @@
           path: /programs/triggers.html
         - title: Hackbot
           path: /programs/hackbot.html
-    - title: Retesting
-      path: /programs/retesting.html
     - title: Reducing Noise
       path: /programs/reducing-noise.html
 - title: Integrations
@@ -153,10 +150,6 @@
       path: /programs/supported-integrations.html
     - title: Integration Variables
       path: /programs/integration-variables.html
-    - title: Email Forwarding
-      path: /programs/email-forwarding.html
-    - title: Embedded Submission Form
-      path: /programs/embedded-submissions-form.html
     - title: API Tokens
       path: /programs/api-tokens.html
     - title: Assembla
@@ -221,6 +214,8 @@
           path: /programs/statistics-dashboard.html
         - title: Hacker Feedback Dashboard
           path: /programs/hacker-feedback-dashboard.html
+        - title: Response Target Benchmarks
+          path: /programs/response-target-benchmarks.html
     - title: Audit Logs
       path: /programs/audit-logs.html
 - title: Hacker Engagement
@@ -249,3 +244,15 @@
       items:
         - title: FAQs
           path: /programs/vpn-faqs.html
+- title: Pentests
+  items:
+    - title: Pentest Overview
+      path: /programs/pentests.html
+- title: Helpful Tools
+  items:
+    - title: Email Forwarding
+      path: /programs/email-forwarding.html
+    - title: Embedded Submission Form
+      path: /programs/embedded-submissions-form.html
+    - title: Slack Shared Channels
+      path: /programs/slack-shared-channels.html
